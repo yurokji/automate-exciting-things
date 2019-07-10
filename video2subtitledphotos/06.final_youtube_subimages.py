@@ -53,6 +53,7 @@ subname = 'youtube_video.ko.srt'
 subs = pysrt.open(subname)
 lenSubs = len(subs)
 prev_text=""
+#fps는 영상의 초당 프레임수와 맞춰주어야 
 fps = 30
 filename = 'youtube_video.mp4'
 reader = imageio.get_reader(filename, 'ffmpeg')
