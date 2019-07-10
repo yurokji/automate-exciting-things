@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Yurok Ji, 06/Jul/2019 
+# Yurok Ji, 10/Jul/2019 
 # yurokji@gmail.com
 # 유튜브 영상을 자막 이미지로 만들기 강좌
 # 6강: 프로그램 통합 
